@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Blockchain, developing
 - 🌱 I’m currently learning ... developing
 - 💞️ I’m looking to collaborate on ... Building projects :)
-- 📫 How to reach me ... Nahuel On Tech (in youtube), or @Nahuel_ma99 in telegram
+- 📫 How to reach me ... @Nahuel_ma99 in telegram
 
 <!---
 nahuelontech/nahuelontech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
